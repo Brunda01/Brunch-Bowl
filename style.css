@@ -1,0 +1,249 @@
+body{
+  color: beige;
+  margin: 0px;
+  padding: 0px;
+  background-image: url('images/bg.jpg');
+  background-repeat: no-repeat;
+  font-size: 20pt;
+
+}
+
+.left {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  display: inline-block;
+  background-color: darkslategrey;
+  width: 100%;
+  height: 80px;
+}
+
+.right {
+  font-size: 30pt;
+  color: white;
+  padding-left: 1165px;
+
+}
+
+.right p {
+  margin-top: -40px;
+}
+
+.navbar {
+  display: inline-block;
+
+}
+
+.navbar li {
+  display: inline-block;
+}
+
+.navbar li a {
+  color: white;
+  text-decoration: none;
+  padding: 40px 30px;
+}
+
+.navbar li a:hover, .navbar li a.active {
+  color: tomato;
+  text-decoration: underline;
+}
+
+.container{
+  text-align: center;
+  padding: 10px 30px;
+  margin: 125px 485px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+h1{
+  text-align: center;
+  font-size: 40pt;
+  padding-top: 40pt;
+}
+
+h2{
+  text-align: center;
+  font-size: 30pt;
+  padding-top: 50px;
+}
+
+.text{
+  color: #F6E683;
+}
+
+.btn {
+  border: 1px solid transparent;
+  background: none;
+  padding: 10px 20px;
+  padding-top: 10px;
+  font-size: 25px;
+  cursor: pointer;
+  margin: 10px;
+  color: black;
+  background-color: tomato;
+}
+
+.items{
+  background-color: #F0B45E;
+  font-size: 25pt;
+  color: darkslategrey;
+  padding-top: 10px;
+  text-align: center;
+  height: 700px;
+}
+
+.items p {
+  font-size: 35pt;
+  font-style: italic;
+}
+
+.item1{
+  position: absolute;
+  border: 1px solid transparent;
+  top: 200px;
+  left: 100px;
+  padding-top: 835px;
+  text-align: center;
+  font-size: 25pt;
+  color: darkslategrey;
+}
+
+.item2{
+  position: absolute;
+  border: 1px solid transparent;
+  top: 200px;
+  left: 580px;
+  padding-top: 835px;
+  text-align: center;
+  font-size: 25pt;
+  color: darkslategrey;
+}
+
+.item3{
+  position: absolute;
+  border: 1px solid transparent;
+  top: 200px;
+  left: 1057px;
+  padding-top: 835px;
+  text-align: center;
+  font-size: 25pt;
+  color: darkslategrey;
+}
+
+h3{
+  text-align: center;
+  padding-top: 200px;
+}
+
+.cooks{
+  background-color: #53BEB6;
+  height: 700px;
+  width: 1519px;
+  color: seashell;
+  position: absolute;
+}
+
+.cooks p{
+  font-style: italic;
+  font-size: 35pt;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.chef1{
+  position: absolute;
+  border: 1px solid transparent;
+  top: 305px;
+  left: 130px;
+  text-align: center;
+  font-size: 25pt;
+  padding-top: 1400px;
+  color: seashell;
+
+}
+
+.chef2{
+  position: absolute;
+  border: 1px solid transparent;
+  top: 305px;
+  left: 613px;
+  text-align: center;
+  font-size: 25pt;
+  padding-top: 1400px;
+  color: seashell;
+
+}
+
+.chef3 {
+  position: absolute;
+  border: 1px solid transparent;
+  top: 305px;
+  left: 1080px;
+  text-align: center;
+  font-size: 25pt;
+  padding-top: 1400px;
+  color: seashell;
+
+}
+
+.about {
+  background-color: #C4959E;
+  position: absolute;
+  height: 700px;
+  margin-top: 600px;
+  width: 1519px;
+  color: saddlebrown;
+}
+
+h3{
+  padding-top: 40px;
+  font-size: 35pt;
+  font-style: italic;
+  text-align: center;
+}
+
+.about p {
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 25pt;
+}
+
+.contact{
+  background-color: #6C792D;
+  width: 1519px;
+  position: absolute;
+  margin-top: 1200px;
+  color: #EDE0A6;
+  font-size: 30pt;
+  text-align: center;
+  font-style: italic;
+  height: 600px;
+}
+
+.content {
+  font-size: 20pt;
+}
+
+.number {
+  text-decoration: underline;
+}
+
+.mail{
+  text-decoration: underline;
+}
+
+.address{
+  text-decoration: underline;
+}
+
+footer{
+  background-color: darkslategrey;
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  padding-top: 1px;
+  margin-top: 1737px;
+  height: 85px;
+}
