@@ -2,7 +2,7 @@ body{
   color: beige;
   margin: 0px;
   padding: 0px;
-  background-image: url('images/bg.jpg');
+  background-image: url('./bg.jpg');
   background-repeat: no-repeat;
   font-size: 20pt;
 
